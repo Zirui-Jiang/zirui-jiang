@@ -19,7 +19,7 @@
 ## 🎯 个人简介
 
 🎓 **华中科技大学** 能源与动力工程学院 硕士研究生在读（2025 级）
-📚 **武汉理工大学** 车辆工程学士
+📚 **武汉理工大学** 车辆工程学士 · 加权 4.062/5.0（年级排名 10/183）
 🔬 研究方向：**多智能体强化学习**（MARL）在**无人艇集群**中的应用
 💼 正在寻找 **2026 年暑期算法 / 机器学习实习** 机会
 🌱 当前进展：基于 VRX 仿真平台搭建多 USV 协同强化学习基线
@@ -153,17 +153,6 @@
 
 ---
 
-## 📊 GitHub 数据
-
-<div align="center">
-
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=zirui-jiang&show_icons=true&theme=default&hide_border=true&count_private=true&locale=cn)
-![主流语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zirui-jiang&layout=compact&theme=default&hide_border=true&locale=cn)
-
-</div>
-
----
-
 ## 🏅 主要荣誉
 
 - 🥇 **国家一等奖** · 第十八届全国大学生智能汽车竞赛室外专项赛（2023）
@@ -182,8 +171,6 @@
 - 🏫 **单位**：华中科技大学 能源与动力工程学院
 
 <div align="center">
-
-![访问量](https://komarev.com/ghpvc/?username=zirui-jiang&color=blueviolet&style=flat-square&label=主页访问)
 
 ⭐ *Last updated: May 2026*
 
