@@ -22,7 +22,7 @@
 📚 **武汉理工大学** 车辆工程学士 · 加权 4.062/5.0（年级排名 10/183）
 🔬 研究方向：**多智能体强化学习**（MARL）在**无人艇集群**中的应用
 💼 正在寻找 **2026 年暑期算法 / 机器学习实习** 机会
-🌱 当前进展：基于 VRX 仿真平台搭建多 USV 协同强化学习基线 · 自建 arXiv 论文每日摘要工具
+🌱 当前进展：基于 VRX 仿真平台搭建多 USV 协同强化学习基线
 
 > Master's student in Energy & Power Engineering at HUST, focusing on Multi-Agent Reinforcement Learning for USV swarms. Actively seeking algorithm internship for Summer 2026.
 
