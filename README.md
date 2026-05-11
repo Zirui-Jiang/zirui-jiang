@@ -4,51 +4,54 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=1E90FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Zirui+Jiang+%F0%9F%91%8B;MEng+%40+HUST+%C2%B7+Energy+%26+Power+Engineering;Multi-Agent+RL+for+USV+Swarms+%F0%9F%9A%A4;Sim-to-Real+Transfer+%C2%B7+Deep+RL+%C2%B7+ROS+2;Seeking+Algorithm+Internship+%40+Summer+2026)](https://git.io/typing-svg)
 
-### 蒋子睿 · MEng Student @ Huazhong University of Science and Technology
+# 你好，我是蒋子睿 👋
+### Zirui Jiang · 华中科技大学 能源与动力工程学院 硕士在读
 
-[![HUST](https://img.shields.io/badge/HUST-School%20of%20Energy%20%26%20Power%20Engineering-005BAC?style=flat-square)]()
-[![Email](https://img.shields.io/badge/Email-327813@whut.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:327813@whut.edu.cn)
+[![学校](https://img.shields.io/badge/华中科技大学-能源与动力工程学院-005BAC?style=flat-square)]()
+[![邮箱](https://img.shields.io/badge/邮箱-1029302265@qq.com-D14836?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1029302265@qq.com)
 [![GitHub](https://img.shields.io/badge/GitHub-zirui--jiang-181717?style=flat-square&logo=github)](https://github.com/zirui-jiang)
-[![Location](https://img.shields.io/badge/Location-Wuhan,%20China-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![位置](https://img.shields.io/badge/位置-武汉,%20中国-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
 
 </div>
 
 ---
 
-## 🎯 About Me / 关于我
+## 🎯 个人简介
 
-🎓 **Master's student** in Energy & Power Engineering at **Huazhong University of Science and Technology (HUST)**
-📚 Bachelor's in Vehicle Engineering, **Wuhan University of Technology** · GPA 4.062/5.0 (Rank 10/183)
-🔬 Research interest: **Multi-Agent Reinforcement Learning** for **Unmanned Surface Vehicle (USV) Swarms**
-💼 Actively seeking **Algorithm / ML Engineer Internship** for Summer 2026
-🌱 Currently building MARL baselines on the VRX simulation platform
+🎓 **华中科技大学** 能源与动力工程学院 硕士研究生在读（2025 级）
+📚 **武汉理工大学** 车辆工程学士
+🔬 研究方向：**多智能体强化学习**（MARL）在**无人艇集群**中的应用
+💼 正在寻找 **2026 年暑期算法 / 机器学习实习** 机会
+🌱 当前进展：基于 VRX 仿真平台搭建多 USV 协同强化学习基线
 
-> 华中科技大学能源与动力工程学院硕士在读，研究方向为**多无人艇集群的多智能体强化学习**，正在寻找 2026 暑期算法实习机会。
+> Master's student in Energy & Power Engineering at HUST, focusing on Multi-Agent Reinforcement Learning for USV swarms. Actively seeking algorithm internship for Summer 2026.
 
 ---
 
-## 🔬 Current Research / 当前研究
+## 🔬 当前研究方向
 
+### 基于深度强化学习的多无人艇协同导航与避障
 **Multi-USV Cooperative Navigation with Deep Reinforcement Learning**
-基于深度强化学习的多无人艇协同导航与避障
 
-- 🌊 **Platform**: VRX (Virtual RobotX) + ROS 2 + Gazebo
-- 🧠 **Methods**: MAPPO, IQN (Distributional RL), Cross-Domain Transfer Learning
-- 🎯 **Goal**: COLREGs-compliant multi-USV swarm collision avoidance with sim-to-real transfer
-- 📌 **Inspiration**: Extending [Li et al. 2023](https://www.mdpi.com/1424-8220/23/7/3572) (cross-domain DRL for USV) to multi-agent settings
+围绕「海上无人系统集群智能决策」这一核心问题，研究内容包括：
+
+- 🌊 **仿真平台**：VRX (Virtual RobotX) + ROS 2 + Gazebo，搭建高保真海洋环境
+- 🧠 **核心方法**：MAPPO（多智能体 PPO）、IQN（分布式强化学习）、跨域迁移学习
+- 🎯 **研究目标**：实现满足 COLREGs（国际海上避碰规则）的多 USV 集群协同避障，并完成 sim-to-real 迁移
+- 📌 **思路来源**：在 [Li et al. 2023](https://www.mdpi.com/1424-8220/23/7/3572)（USV 跨域 DRL）基础上扩展至多智能体场景
 
 ---
 
-## 🛠️ Tech Stack / 技术栈
+## 🛠️ 技术栈
 
-**Languages**
+**编程语言**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-**Deep Learning & RL**
+**深度学习与强化学习**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Stable Baselines3](https://img.shields.io/badge/Stable--Baselines3-792EE5?style=flat-square)
@@ -56,20 +59,20 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square)
 
-**Robotics & Simulation**
+**机器人与仿真**
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square)
 ![VRX](https://img.shields.io/badge/VRX-1E90FF?style=flat-square)
 
-**Hardware & Edge Computing**
+**硬件与嵌入式**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 
-**Tools**
+**开发工具**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -79,70 +82,70 @@
 
 ---
 
-## 🏆 Featured Projects / 精选项目
+## 🏆 精选项目
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Multi-USV Swarm RL Research
-**(Ongoing — MEng Thesis)**
+### 🤖 多 USV 集群强化学习研究
+**（硕士课题 · 进行中）**
 
 <!-- 暂无图片,等仿真跑起来截图后替换 -->
 <!-- <img src="assets/usv_research_demo.png" width="100%"> -->
 
 `MAPPO` `VRX` `ROS 2` `PyTorch`
 
-Building a distributed multi-agent RL framework for cooperative USV navigation with COLREGs compliance.
+构建分布式多智能体强化学习框架，实现符合国际海上避碰规则（COLREGs）的多 USV 协同导航与避障。
 
-📹 *Demo coming soon*
+📹 *Demo 视频准备中*
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Intelligent Visual ROS Vehicle
-🥇 **National First Prize** (2024)
+### 🚗 智能视觉 ROS 小车
+🥇 **国家一等奖**（2024）
 
 <!-- 把你智能小车的照片放进 assets 文件夹后,取消下行注释 -->
 <!-- <img src="assets/ros_vehicle_demo.gif" width="100%"> -->
 
 `YOLOv5` `OpenCV` `Jetson Nano` `STM32`
 
-Real-time urban road scene recognition with YOLOv5 on Jetson Nano. Visual decisions sent to STM32F407 via serial for closed-loop control.
+基于 Jetson Nano 边缘算力平台部署 YOLOv5 模型，完成城市道路场景实时识别；视觉决策通过串口下发 STM32F407 实现闭环控制。
 
-📍 *26th China Robot & AI Competition*
+📍 *第二十六届中国机器人及人工智能大赛*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 5G Remote-Driving Vehicle
-🥇 **National First Prize** (2023)
+### 📡 5G 远程驾驶无人车
+🥇 **国家一等奖**（2023）
 
 <!-- 把你 5G 远程车的照片放进 assets 文件夹后,取消下行注释 -->
 <!-- <img src="assets/5g_vehicle_demo.gif" width="100%"> -->
 
 `Raspberry Pi` `OpenCV` `5G` `PID`
 
-Dual-camera tele-operation system with 5G + intranet penetration; OpenCV-based line following & obstacle detection.
+基于树莓派 + 双目视觉的远程驾驶系统，通过 5G 与内网穿透实现远程操控；OpenCV 完成循迹与障碍识别，PID 控制完成自主避障。
 
-📍 *18th National Smart Car Competition*
+📍 *第十八届全国大学生智能汽车竞赛（室外专项赛）*
 
 </td>
 <td width="50%" valign="top">
 
-### 🪞 Smart Mirror IoT System
-🥉 **Provincial Second Prize** (2023)
+### 🪞 智慧镜域 物联网系统
+🥉 **省二等奖**（2023）
 
 <!-- 把活动作品/魔镜的照片放进 assets 文件夹后,取消下行注释 -->
 <!-- <img src="assets/smart_mirror_demo.jpg" width="100%"> -->
 
-`Raspberry Pi` `MQTT` `OpenCV` `Face Recognition`
+`Raspberry Pi` `MQTT` `OpenCV` `人脸识别`
 
-IoT-based smart mirror with face recognition, voice interaction (LLM), and mobile-end communication via MQTT.
+基于树莓派的智能魔镜，结合大模型与 OpenCV 实现人脸识别与语音交互；通过 MQTT 协议完成与手机端的物物互联。
 
-📍 *6th China College Intelligent Robot Creativity Contest*
+📍 *第六届中国高校智能机器人创意大赛*
 
 </td>
 </tr>
@@ -150,38 +153,37 @@ IoT-based smart mirror with face recognition, voice interaction (LLM), and mobil
 
 ---
 
-## 📊 GitHub Stats / GitHub 数据
+## 📊 GitHub 数据
 
 <div align="center">
 
-![Zirui's GitHub stats](https://github-readme-stats.vercel.app/api?username=zirui-jiang&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zirui-jiang&layout=compact&theme=default&hide_border=true)
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=zirui-jiang&show_icons=true&theme=default&hide_border=true&count_private=true&locale=cn)
+![主流语言](https://github-readme-stats.vercel.app/api/top-langs/?username=zirui-jiang&layout=compact&theme=default&hide_border=true&locale=cn)
 
 </div>
 
 ---
 
-## 🏅 Honors & Awards / 主要荣誉
+## 🏅 主要荣誉
 
-- 🥇 **National First Prize**, 18th National College Student Smart Car Competition (2023)
-- 🥇 **National First Prize**, 26th China Robot & AI Competition (2024)
-- 🥇 **National First Prize**, China College Mechanical Engineering Innovation Contest (2024)
-- 🥉 **Provincial Second Prize**, 14th National College Mathematics Competition (2023)
-- 🎖️ Outstanding Student of WHUT · FAW Jiefang "Pilot" Scholarship · Xuchang Far East First-Class Scholarship
+- 🥇 **国家一等奖** · 第十八届全国大学生智能汽车竞赛室外专项赛（2023）
+- 🥇 **国家一等奖** · 第二十六届中国机器人及人工智能大赛（2024）
+- 🥇 **国家一等奖** · 中国大学生机械工程创新创意大赛（2024）
+- 🥉 **省二等奖** · 第十四届全国大学生数学竞赛（2023）
+- 🎖️ 武汉理工大学校三好学生 · 一汽解放"领航"奖学金 · 许昌远东一等奖学金
 
 ---
 
-## 📫 Get in Touch / 联系我
+## 📫 联系方式
 
-I'm open to **research collaboration**, **internship opportunities**, and **technical discussion**.
-欢迎交流合作！
+欢迎学术交流、合作研究与实习机会的探讨！
 
-- 📧 **Email**: [327813@whut.edu.cn](mailto:327813@whut.edu.cn) *(HUST email coming soon)*
-- 🏫 **Affiliation**: School of Energy and Power Engineering, HUST
+- 📧 **邮箱**：[1029302265@qq.com](mailto:1029302265@qq.com)
+- 🏫 **单位**：华中科技大学 能源与动力工程学院
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zirui-jiang&color=blueviolet&style=flat-square)
+![访问量](https://komarev.com/ghpvc/?username=zirui-jiang&color=blueviolet&style=flat-square&label=主页访问)
 
 ⭐ *Last updated: May 2026*
 
