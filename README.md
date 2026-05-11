@@ -8,7 +8,7 @@
 ### Zirui Jiang · 华中科技大学 能源与动力工程学院 硕士在读
 
 [![学校](https://img.shields.io/badge/华中科技大学-能源与动力工程学院-005BAC?style=flat-square)]()
-[![邮箱](https://img.shields.io/badge/邮箱-1029302265@qq.com-D14836?style=flat-square&logo=tencentqq&logoColor=white)](mailto:1029302265@qq.com)
+[![邮箱](https://img.shields.io/badge/邮箱-jiangzirui408@hust.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jiangzirui408@hust.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-zirui--jiang-181717?style=flat-square&logo=github)](https://github.com/zirui-jiang)
 [![位置](https://img.shields.io/badge/位置-武汉,%20中国-4285F4?style=flat-square&logo=googlemaps&logoColor=white)]()
 
@@ -22,7 +22,7 @@
 📚 **武汉理工大学** 车辆工程学士 · 加权 4.062/5.0（年级排名 10/183）
 🔬 研究方向：**多智能体强化学习**（MARL）在**无人艇集群**中的应用
 💼 正在寻找 **2026 年暑期算法 / 机器学习实习** 机会
-🌱 当前进展：基于 VRX 仿真平台搭建多 USV 协同强化学习基线
+🌱 当前进展：基于 VRX 仿真平台搭建多 USV 协同强化学习基线 · 自建 arXiv 论文每日摘要工具
 
 > Master's student in Energy & Power Engineering at HUST, focusing on Multi-Agent Reinforcement Learning for USV swarms. Actively seeking algorithm internship for Summer 2026.
 
@@ -58,6 +58,12 @@
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv5](https://img.shields.io/badge/YOLOv5-00FFFF?style=flat-square)
+
+**LLM 与 Agent**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Skills](https://img.shields.io/badge/Claude_Skills-D97757?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
 **机器人与仿真**
 
@@ -103,6 +109,25 @@
 </td>
 <td width="50%" valign="top">
 
+### 📚 arXiv 每日论文摘要系统
+**（个人工具 · 持续运行中）**
+
+<!-- 后续可加一张 digest 截图,放进 assets 后取消下行注释 -->
+<!-- <img src="assets/arxiv_daily_demo.png" width="100%"> -->
+
+`Claude Skills` `Python` `arXiv API` `LLM Pipeline`
+
+基于 **Claude Skills** 魔改的学术论文自动化摘要系统：每日抓取 arXiv 指定领域新论文，LLM 生成中英文 TL;DR，关键词加权排序后 Markdown 归档。
+
+📍 *为研究效率自建工具 · 已稳定运行多日*
+
+[🔗 查看仓库](https://github.com/zirui-jiang/arxiv-daily-skill)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚗 智能视觉 ROS 小车
 🥇 **国家一等奖**（2024）
 
@@ -116,8 +141,6 @@
 📍 *第二十六届中国机器人及人工智能大赛*
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📡 5G 远程驾驶无人车
@@ -131,21 +154,6 @@
 基于树莓派 + 双目视觉的远程驾驶系统，通过 5G 与内网穿透实现远程操控；OpenCV 完成循迹与障碍识别，PID 控制完成自主避障。
 
 📍 *第十八届全国大学生智能汽车竞赛（室外专项赛）*
-
-</td>
-<td width="50%" valign="top">
-
-### 🪞 智慧镜域 物联网系统
-🥉 **省二等奖**（2023）
-
-<!-- 把活动作品/魔镜的照片放进 assets 文件夹后,取消下行注释 -->
-<!-- <img src="assets/smart_mirror_demo.jpg" width="100%"> -->
-
-`Raspberry Pi` `MQTT` `OpenCV` `人脸识别`
-
-基于树莓派的智能魔镜，结合大模型与 OpenCV 实现人脸识别与语音交互；通过 MQTT 协议完成与手机端的物物互联。
-
-📍 *第六届中国高校智能机器人创意大赛*
 
 </td>
 </tr>
@@ -167,7 +175,7 @@
 
 欢迎学术交流、合作研究与实习机会的探讨！
 
-- 📧 **邮箱**：[1029302265@qq.com](mailto:1029302265@qq.com)
+- 📧 **邮箱**：[jiangzirui408@hust.edu.cn](mailto:jiangzirui408@hust.edu.cn)
 - 🏫 **单位**：华中科技大学 能源与动力工程学院
 
 <div align="center">
